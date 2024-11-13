@@ -1,2 +1,3 @@
 # BSKY-date-shenanigans
-Test
+
+Bluesky lets you modify post time pretty easily. Made a quick script to make posts on any date
